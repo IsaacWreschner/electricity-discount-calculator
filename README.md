@@ -83,7 +83,7 @@ Date, Time, Consumption
 
 #### שלב 1: התקנת פייתון
 
-1. לאחר העתקת ה GIT למחשב שלכם, כנסו לכתובת: https://www.python.org/downloads/
+1. לאחר העתקת הקוד למחשב שלכם, כנסו לכתובת: https://www.python.org/downloads/
 2. לחצו על **Download Python**.
 3. סמנו את האפשרות **"Add Python to PATH"** במהלך ההתקנה.
 4. השלימו את ההתקנה.
