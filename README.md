@@ -1,5 +1,5 @@
 
-# 🔌 Electricity Discount Calculator | מחשבון הנחת חשמל
+# 🔌 Electricity Discount Calculator | מחשבון הנחה חשמל
 
 This simple application helps you calculate how much electricity discount you can get by selecting the correct time range and days where the discount applies.
 
