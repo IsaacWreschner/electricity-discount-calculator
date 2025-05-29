@@ -21,7 +21,7 @@ This simple application helps you calculate how much electricity discount you ca
 
 ### Step 1: Install Python
 
-1. Go to: https://www.python.org/downloads/
+1. After cloning this repository, go to: https://www.python.org/downloads/
 2. Click **Download Python** (choose the latest version).
 3. During installation, **make sure to check the box "Add Python to PATH"**.
 4. Finish the installation.
@@ -35,7 +35,7 @@ pip install pandas
 
 ### Step 3: Run the App
 
-Save the Python file (e.g., `electricity_discount.py`), then run:
+Open a terminal (Command Prompt) on the directory and run:
 ```bash
 python electricity_discount.py
 ```
@@ -83,7 +83,7 @@ Date, Time, Consumption
 
 #### שלב 1: התקנת פייתון
 
-1. כנסו לכתובת: https://www.python.org/downloads/
+1. לאחר העתקת ה GIT למחשב שלכם, כנסו לכתובת: https://www.python.org/downloads/
 2. לחצו על **Download Python**.
 3. סמנו את האפשרות **"Add Python to PATH"** במהלך ההתקנה.
 4. השלימו את ההתקנה.
@@ -97,7 +97,7 @@ pip install pandas
 
 #### שלב 3: הרצת התוכנה
 
-שמרו את קובץ הפייתון (למשל `electricity_discount.py`) והריצו כך:
+פתחו חלון פקודה באותה תקייה והריצו כך:
 ```bash
 python electricity_discount.py
 ```
